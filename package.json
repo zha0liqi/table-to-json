@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-xlsx": "^0.12.1",
+    "number-precision": "^1.2.0"
+  }
+}
